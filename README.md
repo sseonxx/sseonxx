@@ -18,9 +18,9 @@ I'm **curious** about new tech and always learning to grow as a developer.ðŸ‘©â€
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
 
-**Tools**
+**Collaboration & Tools**
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=slack&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>&nbsp;
 
 
 
