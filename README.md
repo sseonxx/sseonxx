@@ -3,9 +3,9 @@ I'm a front-end developer specializing in building web frontends with React and 
 I value UX and focus on clean code, efficient solutions.
 
 ## A little about me
-I love hiking, and nature. 🏞️ 
-I enjoy visiting new cafes and finding inspiration and chilling out.☕🥐
-I'm curious about new tech and always learning to grow as a developer.👩‍💻
+- I love hiking, and nature. 🏞️ 
+- I enjoy visiting new cafes and finding inspiration and chilling out.☕🥐
+- I'm curious about new tech and always learning to grow as a developer.👩‍💻
 
 
 <!--
