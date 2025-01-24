@@ -1,7 +1,7 @@
 
 ## 👋Hello, I'm Seoeun Park(sseonxx).
 I'm a **front-end developer** specializing in building web frontends with **React and JavaScript**.<br>
-I **value** UX and focus on clean code, efficient solutions.🕵️‍♀️<br>
+I **value** UX and **focus** on clean code, efficient solutions.🕵️‍♀️<br>
 
 ## 💕A little about me
 I **love** hiking, and nature.🏞️<br>
